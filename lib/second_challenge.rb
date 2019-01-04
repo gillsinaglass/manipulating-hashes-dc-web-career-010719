@@ -6,7 +6,7 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-  merge(groceries.values)
+  (groceries.values)
 
   
 
